@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./emmanuelisalvar00alvagoog/emmanuelisalvar00alvagoog_0013.png"; bbox 0 0 4680 6166; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 654 2129 1466 2245">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 654 2129 1466 2245">
+     <span class='ocr_line' id='line_1_1' title="bbox 654 2129 1466 2245; baseline 0.005 -4"><span class='ocrx_word' id='word_1_1' title='bbox 654 2129 1148 2243; x_wconf 86' lang='lat' dir='ltr'><strong>EMMANUELIS</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 1204 2132 1466 2245; x_wconf 77' lang='lat' dir='ltr'><strong>ALVARI</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 850 2445 1264 2496">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 850 2445 1264 2496">
+     <span class='ocr_line' id='line_1_2' title="bbox 850 2445 1264 2496; baseline 0.01 -4"><span class='ocrx_word' id='word_1_3' title='bbox 850 2446 881 2492; x_wconf 78' lang='grc' dir='ltr'><strong><em>Ἐ</em></strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 907 2445 1140 2494; x_wconf 79' lang='lat' dir='ltr'>SOCIETATE</span> <span class='ocrx_word' id='word_1_5' title='bbox 1166 2448 1264 2496; x_wconf 84' lang='lat' dir='ltr'>JESU</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 40 2959 1845 3156">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 40 2959 1845 3156">
+     <span class='ocr_line' id='line_1_3' title="bbox 40 2959 1845 3156; baseline 0 -10"><span class='ocrx_word' id='word_1_6' title='bbox 40 2959 47 2976; x_wconf 76' lang='grc'><strong>’</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 261 2972 387 3147; x_wconf 89' lang='lat' dir='ltr'><strong>IN</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 391 2967 1035 3156; x_wconf 86' lang='lat' dir='ltr'><strong>STITUTIONE</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 1124 2963 1845 3150; x_wconf 72' lang='lat' dir='ltr'><strong>GRAMMATICA</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 878 3376 1228 3464">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 878 3376 1228 3464">
+     <span class='ocr_line' id='line_1_4' title="bbox 878 3376 1228 3464; baseline 0.003 -1"><span class='ocrx_word' id='word_1_10' title='bbox 878 3378 1040 3464; x_wconf 88' lang='lat' dir='ltr'><strong>LIBRI</strong></span> <span class='ocrx_word' id='word_1_11' title='bbox 1074 3376 1228 3464; x_wconf 86' lang='lat' dir='ltr'><strong>TRES</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 0 3124 2 3731">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 0 3124 2 3731">
+     <span class='ocr_line' id='line_1_5' title="bbox 0 3124 2 3731; baseline 0 0"><span class='ocrx_word' id='word_1_12' title='bbox 0 3124 2 3731; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_6' title="bbox 0 0 2344 6164">
+    <p class='ocr_par' dir='ltr' id='par_1_6' title="bbox 0 0 2344 6164">
+     <span class='ocr_line' id='line_1_6' title="bbox 0 0 2344 6164; baseline 0 0"><span class='ocrx_word' id='word_1_13' title='bbox 0 0 2344 6164; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
